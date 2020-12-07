@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/Users/christian/Github/anothernotetaker/env/bin/python3"
+}
